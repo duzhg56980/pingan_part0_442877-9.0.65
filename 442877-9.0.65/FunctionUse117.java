@@ -1,0 +1,7 @@
+import javax.servlet.AsyncEvent;
+public class FunctionUse117 {
+public void funcUse() {
+AsyncEvent asyncevent = new AsyncEvent();
+asyncevent.getAsyncContext();
+}
+}

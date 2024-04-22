@@ -1,0 +1,7 @@
+import org.apache.tomcat.util.descriptor.web.ContextHandler;
+public class FunctionUse11531 {
+public void funcUse() {
+ContextHandler contexthandler = new ContextHandler();
+contexthandler.setHandlerclass(null);
+}
+}

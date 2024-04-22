@@ -1,0 +1,7 @@
+import org.apache.tomcat.util.digester.Digester;
+public class FunctionUse12129 {
+public void funcUse() {
+Digester digester = new Digester();
+digester.setPropertySource(null);
+}
+}

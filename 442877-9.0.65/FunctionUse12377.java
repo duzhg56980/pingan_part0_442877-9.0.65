@@ -1,0 +1,7 @@
+import org.apache.tomcat.util.http.Parameters;
+public class FunctionUse12377 {
+public void funcUse() {
+Parameters parameters = new Parameters();
+parameters.processParameters(null,null);
+}
+}

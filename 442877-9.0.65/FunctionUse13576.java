@@ -1,0 +1,6 @@
+import org.apache.tomcat.util.net.NioEndpoint.Acceptor;
+public class FunctionUse13576 {
+public void funcUse() {
+Acceptor acceptor = new Acceptor();
+}
+}

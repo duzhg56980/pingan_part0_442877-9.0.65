@@ -1,0 +1,7 @@
+import org.apache.tomcat.util.digester.CallParamRule;
+public class FunctionUse12096 {
+public void funcUse() {
+CallParamRule callparamrule = new CallParamRule();
+callparamrule.end(null,null);
+}
+}

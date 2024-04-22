@@ -1,0 +1,6 @@
+import org.apache.catalina.filters.RestCsrfPreventionFilter.MethodType;
+public class FunctionUse4176 {
+public void funcUse() {
+MethodType methodtype = new MethodType();
+}
+}

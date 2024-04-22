@@ -1,0 +1,6 @@
+import org.apache.tomcat.util.descriptor.web.JspConfigDescriptorImpl;
+public class FunctionUse11684 {
+public void funcUse() {
+JspConfigDescriptorImpl jspconfigdescriptorimpl = new JspConfigDescriptorImpl();
+}
+}

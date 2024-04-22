@@ -1,0 +1,7 @@
+import org.apache.coyote.http2.ConnectionSettingsBase;
+public class FunctionUse9302 {
+public void funcUse() {
+ConnectionSettingsBase connectionsettingsbase = new ConnectionSettingsBase();
+connectionsettingsbase.validateMaxFrameSize(null);
+}
+}
